@@ -1,5 +1,0 @@
-name: 'm_abc_audit_wrkfl_run_add'
-version: '1.0'
-vars:
-  WORKFLOW_NAME: ''
-  FOLDER_NAME: 'FDR'
