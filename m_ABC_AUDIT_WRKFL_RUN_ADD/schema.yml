@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: INFAD
+    database: INFAD
+    schema: FDWSADM
+    tables:
+      - name: ABC_CTRL_WRKFL_PRMTR
+      - name: FDWS_WORKFLOWS_V
+
+models:
+  - name: int_lkp_abc_ctrl_wrkfl_cmpnt_prmtr_wrkfl_id
+  - name: stg_sq_fdr_lib_fdws_workflows_v
+  - name: trans_exp_defaluts
+  - name: stg_tgt_abc_audit_wrkfl_run
