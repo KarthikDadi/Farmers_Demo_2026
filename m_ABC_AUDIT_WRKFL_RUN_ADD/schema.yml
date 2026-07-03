@@ -6,7 +6,6 @@ sources:
     schema: FDWSADM
     tables:
       - name: ABC_CTRL_WRKFL_PRMTR
-      - name: FDR_LIB_FDWS_WORKFLOWS_V
       - name: FDWS_WORKFLOWS_V
 
 
